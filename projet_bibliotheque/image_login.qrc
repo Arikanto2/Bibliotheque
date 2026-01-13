@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image-login/6619dc25d45c22b19d90f704a1036f59_1.jpg</file>
+        <file>image-login/6619dc25d45c22b19d90f704a1036f59 - Copie.jpg</file>
+        <file>image-login/fond-bibliotheque.jpg</file>
+        <file>icone/images.png</file>
+    </qresource>
+</RCC>

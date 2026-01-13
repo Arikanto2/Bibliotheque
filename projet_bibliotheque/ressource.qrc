@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/ic">
+        <file>icone/icons8-graphique-30.png</file>
+        <file>icone/icons8-livres-30.png</file>
+        <file>icone/icons8-menu-32.png</file>
+        <file>icone/icons8-personne-neutre-peau-type-6-30.png</file>
+        <file>icone/icons8-red-card-30.png</file>
+        <file>icone/icons8-structural-32.png</file>
+        <file>icone/icon_biblio.png</file>
+        <file>icone/acceuil.jpeg</file>
+    </qresource>
+</RCC>

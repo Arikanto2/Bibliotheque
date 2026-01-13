@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/gettyimages-535515203-612x612 - Copie.jpg</file>
+        <file>img/logo-de-livre-53875554 - Copie.jpg</file>
+        <file>img/istockphoto-854608904-1024x1024.jpg</file>
+        <file>img/images.png</file>
+    </qresource>
+</RCC>
